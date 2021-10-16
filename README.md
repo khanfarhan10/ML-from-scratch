@@ -32,3 +32,5 @@
    - [ ] BERT & Transformers
    - [ ] LSTM
    - [ ] YOLO
+
+3. Statics
